@@ -3,7 +3,7 @@ import React from 'react'
 function Assigned() {
   return (
     <div>
-      HERRO
+      ASSIGNED Assignments
     </div>
   );
 }
